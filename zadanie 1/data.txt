@@ -1,0 +1,6 @@
+ADD Fish Goldfish orange river
+ADD Bird Sparrow Brown 15.5
+ADD Insect Butterfly Yellow 0.5 2022-05-01
+print
+REM Goldfish
+print
